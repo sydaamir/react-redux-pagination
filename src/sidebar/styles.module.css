@@ -1,0 +1,19 @@
+.container {
+  background-color: #02182f;
+  height: inherit;
+}
+
+/* sidebar list */
+.list {
+  padding: 13px 20px;
+  color: #b5caff;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+.list:hover {
+  background-color: white;
+  color: #02182f;
+}
